@@ -1,1 +1,1 @@
-link figma: https://www.figma.com/community/file/1383224023505729436
+link figma: https://www.figma.com/design/br7x462zLFf17z9uyzSab8/Untitled?node-id=0-1&p=f&t=EIkAEWD0ieuS4g9G-0
